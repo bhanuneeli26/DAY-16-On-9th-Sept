@@ -1,0 +1,15 @@
+Distances between every set of two points in the given input are:
+4.1231
+7.8102
+4.2426
+2.8284
+24.5967
+80.0812
+11
+62.2254
+32.0624
+8.0623
+90.6973
+208.3699
+51.0882
+645.9381

@@ -1,0 +1,4 @@
+Students got above 35 are: 14
+Students got above 65 are: 11
+Students got above 75 are: 8
+Students got above 95 are: 3
